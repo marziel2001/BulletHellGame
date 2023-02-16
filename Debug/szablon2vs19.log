@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(154,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(381,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(380,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(391,20): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(390,19): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(397,104): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(396,103): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(407,57): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(406,56): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(413,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(412,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(417,98): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(417,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(423,36): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(422,36): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(429,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(428,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(438,89): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(442,93): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(436,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(440,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(447,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(450,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(453,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(461,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marzi\Documents\PG\bulletHell\191005\main.cpp(486,25): warning C4244: "argument": konwersja z "double" do "Uint32", możliwa utrata danych
+  szablon2vs19.vcxproj -> C:\Users\marzi\Documents\PG\bulletHell\191005\Debug\szablon2vs19.exe
